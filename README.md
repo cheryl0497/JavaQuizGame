@@ -28,7 +28,7 @@ Navigate to JAVA-Quiz-Game\src\javaquizgame\JavaQuizGame.java.
 This file contains the main Java function.
 Click on Run Project or press F6 to start the game. You should see the initial screen as follows:
 bash
-Copy code
+
 ********* Kaun Banega Crorepati ********
 
 * Please choose an appropriate number from the menu below *
