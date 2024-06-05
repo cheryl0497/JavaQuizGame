@@ -1,4 +1,4 @@
-JAVA-Quiz-Game
+        JAVA-Quiz-Game
 This project is a JAVA Console Application.
 Developed using core JAVA principles and Object-Oriented Programming (OOP).
 OOP ensures that the code remains DRY (Don't Repeat Yourself), making it easier to maintain, modify, and debug.
