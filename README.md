@@ -3,10 +3,10 @@ This project is a JAVA Console Application.
 Developed using core JAVA principles and Object-Oriented Programming (OOP).
 OOP ensures that the code remains DRY (Don't Repeat Yourself), making it easier to maintain, modify, and debug.
 
-Inspiration
+        Inspiration
 This project draws its inspiration from the popular quiz show: 'Kaun Banega Crorepati', a global television phenomenon where participants answer multiple-choice questions to win significant cash prizes.
 
-Game Overview
+        Game Overview
 The game supports single-player mode only.
 Players can choose their preferred difficulty level at the beginning: Easy or Hard.
 The game consists of 3 rounds for both difficulty levels. Easy mode has 3 questions per round, while Hard mode has 5 questions per round.
@@ -18,12 +18,12 @@ Completing the final round successfully wins the player a million dollars.
 Players have access to 3 lifelines: 50/50, Ask the Audience, and Phone a Friend.
 Lifelines are available from round 2 in Hard mode, while in Easy mode, all lifelines are available from round 1.
 
-Software Requirements
+        Software Requirements
 Java Runtime Environment - 1.8.0 (JRE)
 Java Development Kit - 17.0.2 (JDK)
 Spring Tool Suite (STS) - 4 - IDE
 
-How to Start the Game
+        How to Start the Game
 Ensure all the required software is installed.
 Clone the project repository.
 Open the project in Spring Tool Suite (STS).
@@ -40,13 +40,13 @@ bash
 3. Exit the game
 
    
-Data Files
+        Data Files
 Two input data files are located in the root folder of this project:
 
 game_rules.txt: Contains the rules of the game.
 question_bank.txt: Includes all the quiz questions along with 4 options and the correct answer.
 
-Package Structure
+        Package Structure
 javaQuizGame: Contains the main class JavaQuizGame, the entry point of the project.
 data: Stores all input data within the Data class.
 consoleInterface: Manages user interaction, displaying information, and receiving input. Also handles the game's launch screen.
